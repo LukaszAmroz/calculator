@@ -1,6 +1,6 @@
 var calculator = function(base){
 
-	var base = base;
+	var base = base || 0;
 
 	return {
 		add: function(){

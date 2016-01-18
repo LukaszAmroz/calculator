@@ -4,7 +4,7 @@ Wykonuje działania na przekazanej wartości początkowej
 ## Użycie
 
 ```js
-calculator(basis) // "basis" określa podstawę na której wykonane zostaną działania
+calculator(basis) // "basis" określa podstawę na której wykonane zostaną działania - domyślnie 0
 add(arguments) // sumuje przekazane argumenty i dodaje je do podstawy
 multiply(arg) // mnoży podstawę razy przekazany argument
 substract(arguments) // sumuje argumenty i odejmuje je od podstawy
